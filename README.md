@@ -7,10 +7,11 @@ Initial Project Using React JS
 
 # Install dependencies
 npm install
+npm install react-router-dom
 
 # Start development server
 npm start
 
-#Install Router Dom
-npm install react-router-dom
+
+
 
