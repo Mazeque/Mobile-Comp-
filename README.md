@@ -11,6 +11,6 @@ npm install
 # Start development server
 npm start
 
-#Install Route Dom
+#Install Router Dom
 npm install react-router-dom
 
